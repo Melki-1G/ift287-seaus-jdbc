@@ -35,11 +35,11 @@ Manage parent company relationships
 SQL transaction management with commit and rollback
 Project Structure
 src/
- └── SeauS/
-      ├── bdd/
-      ├── gestion/
-      ├── tables/
-      └── tuples/
+ SeauS/
+    bdd/
+      gestion/
+      tables/
+      tuples/
 Author
 
 Melchisedek Gogoua
@@ -81,11 +81,11 @@ Gérer les relations de compagnies parentes
 Gestion des transactions SQL avec commit et rollback
 Structure du projet
 src/
- └── SeauS/
-      ├── bdd/
-      ├── gestion/
-      ├── tables/
-      └── tuples/
+ SeauS/
+     bdd/
+      gestion/
+      tables/
+      tuples/
 Auteur
 
 Melchisedek Gogoua
